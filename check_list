@@ -1,0 +1,81 @@
+• Your shell must implement the following builtins:
+	◦ pwd with no options // done!
+
+	◦ env with no options or arguments
+	◦ unset with no options
+	◦ export with no options
+
+	◦ echo with option -n
+	◦ cd with only a relative or absolute path
+	◦ exit with no options
+
+
+
+
+
+
+getcwd // pwd!													//to get current working directory
+
+
+access															//to check validity of commands!
+close															//
+dup																//
+dup2															//
+exit															//
+execve															//
+free															//
+fork															//
+malloc															//
+open															//
+pipe															//
+printf															//to print bruh!
+perror															//
+read															//
+strerror														//
+unlink															//
+write															//
+wait															//
+waitpid															//
+
+
+chdir															//
+closedir														//
+opendir															//
+readdir															//
+
+
+add_history														//
+readline														//
+rl_redisplay													//
+rl_on_new_line													//
+rl_replace_line													//
+rl_clear_history												//
+kill															//
+signal															//
+sigaction														//
+sigaddset														//
+sigemptyset														//
+wait3															//
+wait4															//
+
+
+lstat															//
+fstat															//
+stat															//
+
+
+getenv															//
+isatty															//
+ioctl															//
+ttyname															//
+ttyslot															//
+
+
+tcsetattr														//
+tcgetattr														//
+tgetent															//
+tgetflag														//
+tgetnum															//
+tgetstr															//
+tgoto															//
+tputs															//
